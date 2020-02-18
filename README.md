@@ -21,7 +21,7 @@
   * **FreeRDP RCE** [Demo](https://www.youtube.com/watch?v=Z4Z3BP9gCeI)
   * **Mstsc Copy & Paste Vulnerability** [Demo](https://www.youtube.com/watch?v=F70FGv_QxDY)
  
- ## Poisoned RDP Attack (With Dana Baril)
+ ## He Said, She Said – Poisoned RDP Offense and Defense (With Dana Baril)
  * **Technical blog post** - https://research.checkpoint.com/reverse-rdp-the-hyper-v-connection/
  * **BlackHat USA 2019** [Video](https://www.youtube.com/watch?v=3wncyS-QOBk)
  * **Demo** [Video](https://www.youtube.com/watch?v=nSGlMJqQEh0)
