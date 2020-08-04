@@ -1,5 +1,5 @@
 # Conference Talks List
-## What The Fax ?! (With Yaniv Balmas)
+## What The Fax ?! (With [@ynvb](https://twitter.com/ynvb))
 * **Technical blog post** - https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/
 * **DEFCON 26** [Video](https://www.youtube.com/watch?v=qLCE8spVX9Q)
 * **Hack.lu 2018** [Video](https://www.youtube.com/watch?v=aahHbliwfm0)
@@ -21,7 +21,7 @@
   * **FreeRDP RCE** [Demo](https://www.youtube.com/watch?v=Z4Z3BP9gCeI)
   * **Mstsc Copy & Paste Vulnerability** [Demo](https://www.youtube.com/watch?v=F70FGv_QxDY)
  
- ## He Said, She Said – Poisoned RDP Offense and Defense (With Dana Baril)
+ ## He Said, She Said – Poisoned RDP Offense and Defense (With [@dana_baril](https://twitter.com/dana_baril))
  * **Technical blog post** - https://research.checkpoint.com/reverse-rdp-the-hyper-v-connection/
  * **BlackHat USA 2019** [Video](https://www.youtube.com/watch?v=3wncyS-QOBk)
  * **Demo** [Video](https://www.youtube.com/watch?v=nSGlMJqQEh0)
