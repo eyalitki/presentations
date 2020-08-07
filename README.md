@@ -21,16 +21,19 @@
   * **FreeRDP RCE** [Demo](https://www.youtube.com/watch?v=Z4Z3BP9gCeI)
   * **Mstsc Copy & Paste Vulnerability** [Demo](https://www.youtube.com/watch?v=F70FGv_QxDY)
  
- ## He Said, She Said – Poisoned RDP Offense and Defense (With [@dana_baril](https://twitter.com/dana_baril))
- * **Technical blog post** - https://research.checkpoint.com/reverse-rdp-the-hyper-v-connection/
- * **BlackHat USA 2019** [Video](https://www.youtube.com/watch?v=3wncyS-QOBk)
- * **Demo** [Video](https://www.youtube.com/watch?v=nSGlMJqQEh0)
+## He Said, She Said – Poisoned RDP Offense and Defense (With [@dana_baril](https://twitter.com/dana_baril))
+* **Technical blog post** - https://research.checkpoint.com/reverse-rdp-the-hyper-v-connection/
+* **BlackHat USA 2019** [Video](https://www.youtube.com/watch?v=3wncyS-QOBk)
+* **Demo** [Video](https://www.youtube.com/watch?v=nSGlMJqQEh0)
  
- ## Say Cheese - How I Ransomwared Your DSLR Camera
- * **Technical blog post** - https://research.checkpoint.com/2019/say-cheese-ransomware-ing-a-dslr-camera/
- * **DEFCON 27** [Video](https://www.youtube.com/watch?v=q1xTJO6ZnC0)
- * **Hack.lu 2019** [Video](https://www.youtube.com/watch?v=GOtU03aqDFY)
- * **Demo** [Video](https://www.youtube.com/watch?v=75fVog7MKgg)
+## Say Cheese - How I Ransomwared Your DSLR Camera
+* **Technical blog post** - https://research.checkpoint.com/2019/say-cheese-ransomware-ing-a-dslr-camera/
+* **DEFCON 27** [Video](https://www.youtube.com/watch?v=q1xTJO6ZnC0)
+* **Hack.lu 2019** [Video](https://www.youtube.com/watch?v=GOtU03aqDFY)
+* **Demo** [Video](https://www.youtube.com/watch?v=75fVog7MKgg)
 
-## Don't be Silly - Its Only a Lightbulb
+## Don't be Silly - It's Only a Lightbulb
+
+* **Technical blog post** - https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
+* **DEFCON 28 (DEFCON Safe Mode)** [Video](https://www.youtube.com/watch?v=iMxquCdAMWI)
 * **Demo** [Video](https://www.youtube.com/watch?v=4CWU0DA__bY)
