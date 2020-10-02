@@ -33,7 +33,11 @@
 * **Demo** [Video](https://www.youtube.com/watch?v=75fVog7MKgg)
 
 ## Don't be Silly - It's Only a Lightbulb
-
 * **Technical blog post** - https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 * **DEFCON 28 (DEFCON Safe Mode)** [Video](https://www.youtube.com/watch?v=iMxquCdAMWI)
 * **Demo** [Video](https://www.youtube.com/watch?v=4CWU0DA__bY)
+
+## Graphology of an exploit – hunting for exploits by looking for the author’s fingerprints (With [@megabeets_](https://twitter.com/megabeets_))
+* **Technical blog post** - https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/
+* **Virus Bulletin 2020** Video - TBD
+* **SECURE 2020** Video - TBD
