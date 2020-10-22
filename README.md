@@ -40,4 +40,4 @@
 ## Graphology of an exploit – Hunting for exploits by looking for the author’s fingerprints (With [@megabeets_](https://twitter.com/megabeets_))
 * **Technical blog post** - https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/
 * **Virus Bulletin 2020 (VB2020 localhost)** [Video](https://www.youtube.com/watch?v=LastM-ERNxE&t=2165s)
-* **SECURE 2020** Video - TBD
+* **SECURE 2020** [Video](https://www.youtube.com/watch?v=7iMBCdhdYDE)
